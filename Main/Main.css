@@ -1,0 +1,19 @@
+html{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+body{
+    margin: 0;
+}
+/* unable to use precent on on width/height. requires troubleshooting */
+header{
+    width: 14em;
+    height: fit-content;
+    background-color: gray;
+}
+
+nav{
+    
+}
